@@ -185,7 +185,7 @@ section {
     top: 530px;
     margin: 0px;
     background-color: #211E55;
-    z-index: 3;
+    z-index: 2;
 }
 
 .bigtext {
@@ -704,7 +704,7 @@ section {
     }
 }
 
-@media(max-width:900px) {
+@media(max-width:px) {
     #Top_nav_2 .menu {
         left: 0px;
     }
